@@ -38,6 +38,10 @@ cd hardhat-nft
 yarn
 ```
 
+# Testing
+
+`yarn hardhat test`
+
 # Deploy
 
 ## Deploy on hardhat network
